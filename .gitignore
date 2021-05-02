@@ -2,3 +2,4 @@ demo.cpp
 misc.cpp
 .vscode/
 /**/*.out
+*.txt
